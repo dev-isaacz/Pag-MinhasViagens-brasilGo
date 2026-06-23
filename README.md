@@ -17,7 +17,7 @@ Página web desenvolvida com **HTML e CSS**, simulando uma interface de catálog
  
 Projeto prático para reforçar:
 - Organização de layout com HTML semântico
-- Estilização com CSS puro
+- Estilização com CSS 
 - Boas práticas de estruturação de página
 ---
  
